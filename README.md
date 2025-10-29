@@ -38,7 +38,7 @@ The **Admin Dashboard** provides full control over the platform.
 
 | Bookings Overview | Reports | Settings | Analytics |
 |--------------------|----------|-----------|------------|
-| ![Bookings Overview](./assetes/Admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
+| ![Bookings Overview](./assetes/admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
 
 💼 The admin can:
 - Add, update, or delete cars  
@@ -48,9 +48,9 @@ The **Admin Dashboard** provides full control over the platform.
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React if applicable)
-- **Backend:** Node.js / Express (or your backend)
-- **Database:** MySQL / MongoDB
+- **Frontend:** HTML, CSS, JavaScript 
+- **Backend:** PHP
+- **Database:** MySQL
 - **Version Control:** Git & GitHub
 
 ---
@@ -58,4 +58,4 @@ The **Admin Dashboard** provides full control over the platform.
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Car-Rental-System.git
+   git clone https://github.com/Omaressam2002/Car-Rental-System.git
