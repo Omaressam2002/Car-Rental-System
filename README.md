@@ -19,7 +19,7 @@ Below are snapshots from the **user side** of the application.
 
 | Home Page |
 |------------|
-| ![User Home](./assets/user.png) |
+| ![User Home](./assets/User.png) |
 
 🧭 The user can:
 - View available cars
@@ -34,11 +34,11 @@ The **Admin Dashboard** provides full control over the platform.
 
 | Dashboard | Manage Cars | Manage Users |
 |------------|--------------|--------------|
-| ![Admin Dashboard](./assets/admin1.png) | ![Manage Cars](./assets/admin2.png) | ![Manage Users](./assets/admin3.png) |
+| ![Admin Dashboard](./assets/Admin1.png) | ![Manage Cars](./assets/admin2.png) | ![Manage Users](./assets/admin3.png) |
 
 | Bookings Overview | Reports | Settings | Analytics |
 |--------------------|----------|-----------|------------|
-| ![Bookings Overview](./assetes/admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
+| ![Bookings Overview](./assetes/Admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
 
 💼 The admin can:
 - Add, update, or delete cars  
