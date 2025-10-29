@@ -38,7 +38,7 @@ The **Admin Dashboard** provides full control over the platform.
 
 | Bookings Overview | Reports | Settings | Analytics |
 |--------------------|----------|-----------|------------|
-| ![Bookings Overview](./assetes/admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
+| ![Bookings Overview](./assets/admin4.png) | ![Reports](./assets/admin5.png) | ![Settings](./assets/admin6.png) | ![Analytics](./assets/admin7.png) |
 
 💼 The admin can:
 - Add, update, or delete cars  
